@@ -1,0 +1,11 @@
+Model Information:
+* title:	Human Brain: Hemispheric White Matter
+* source:	https://sketchfab.com/3d-models/human-brain-hemispheric-white-matter-5b68c209050d4240a558b8ba74e6184c
+* author:	VISIBLE APE PROJECT (https://sketchfab.com/VISIBLEAPEPROJECT)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Human Brain: Hemispheric White Matter" (https://sketchfab.com/3d-models/human-brain-hemispheric-white-matter-5b68c209050d4240a558b8ba74e6184c) by VISIBLE APE PROJECT (https://sketchfab.com/VISIBLEAPEPROJECT) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
